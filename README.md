@@ -1,3 +1,3 @@
-#My first project
+# My first project
 This is the Calculator Developed using HTML,CSS & JavaScript
 
