@@ -1,3 +1,3 @@
-<h1>My first project</h1>
+#My first project
 This is the Calculator Developed using HTML,CSS & JavaScript
 
