@@ -1,5 +1,5 @@
 # My first project
-This is the Calculator developed using HTML,CSS & JavaScript by
+This is the Calculator developed using HTML,CSS & JavaScript.
 <br>
-<span  style="text-align: end;">-Nikhil</span>
+-Nikhil
 
